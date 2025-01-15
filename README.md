@@ -62,7 +62,7 @@ Friten offers a subscription model for users who want access to exclusive featur
 
 ## 🔒 Privacy Policy
 
-Your privacy is important to us. Friten only collects essential data, such as IP addresses, to ensure a smooth and secure experience. For more details, read our [Privacy Policy](https://friten.in/privacy-policy).
+Your privacy is important to us. Friten only collects essential data, such as IP addresses, to ensure a smooth and secure experience. For more details, read our [Privacy Policy](https://friten.in/privacy_policy).
 
 ---
 
@@ -81,7 +81,7 @@ We welcome contributions to improve Friten. If you're interested:
 - **No**, we do not offer refunds.
 
 ### 2. How can I get support?
-- Visit our [Help Center](https://friten.in/help-center) or fill out the [Google Form](https://friten.in/support).
+- Visit our [Help Center](https://friten.in/helpcenter).
 
 ---
 
