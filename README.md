@@ -7,7 +7,6 @@ Welcome to **Friten**, a next-generation social media platform designed to conne
 ## 🚀 Features
 
 - **Real-Time Chat**: Communicate with friends and followers instantly with **Indica Chat**, our built-in AI-powered chat feature.
-- **Ad-Free Experience**: Enjoy a distraction-free interface with no intrusive ads.
 - **Subscription Model**: Unlock premium features with a simple subscription.
 - **Robust Privacy**: We collect only essential data (IP addresses) to maintain privacy and security.
 - **Mobile, Tablet, and PC Support**: Friten is optimized for all devices.
