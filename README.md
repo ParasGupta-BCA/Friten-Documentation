@@ -24,7 +24,7 @@ Welcome to **Friten**, a next-generation social media platform designed to conne
 
 ### Setup Instructions
 1. **Windows Software**:
-   - Download the Friten file from our [website](https://friten.in).
+   - Download the Friten file from our [website](https://official.friten.in/download/software-version).
    - Copy the file and paste it onto your desktop.
    - Run the application by double-clicking the icon.
 
